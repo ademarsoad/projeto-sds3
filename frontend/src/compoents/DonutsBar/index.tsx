@@ -29,6 +29,7 @@ const DonutsBars = () => {
     }, []);
 
 
+   
     const options = {
         legend: {
             show: true
